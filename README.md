@@ -1,1 +1,0 @@
-Telling your personal journey as a founder, your lessons and mistakes and everything in between, can help you scale your business. But gathering, curating, and telling your stories in a consistent basis is a pain in the ass. We specialize in this process and have produced quantifiable business results in doing so. 
