@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Founder Ink | A Storytelling Agency</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #1a1a1a;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2, h3 {
+      color: #1a1a1a;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    footer {
+      background-color: #1a1a1a;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    a {
+      color: #3366cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Founder Ink</h1>
+    <p>A Storytelling Agency</p>
+  </header>
+
+  <section>
+    <h2>Mission</h2>
+    <p>Every founder and C-level executive that I’ve worked with thus far has an interesting origin story and useful insights about the tech industry. But capturing those stories and sharing them consistently on platforms where your audience learns and connects can be tough — even when you have time!</p>
+    <p>That’s our specialty at Founder Ink: helping tech companies share their stories and tips in a consistent, compelling way. Consistent posting of useful content increases awareness of your company and expertise — organically and cost-effectively.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Twitter threads</li>
+      <li>LinkedIn posts and articles</li>
+      <li>Blog ghostwriting</li>
+      <li>Landing pages</li>
+      <li>Instagram posts</li>
+      <li>Online webinars</li>
+      <li>Face-to-face panels</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Clients</h2>
+    <p>Previous clients include:</p>
+    <ul>
+      <li>Roqad</li>
+      <li>Nethone (acquired by Mangopay)</li>
+      <li>BValue Venture Capital</li>
+      <li>Appsilon Data Science</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>📧 <a href="mailto:joecha34@proton.me">joecha34@proton.me</a></p>
+    <p>🔗 <a href="https://www.linkedin.com/in/joseph-w-cha/" target="_blank">Connect on LinkedIn</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Founder Ink — All Rights Reserved</p>
+  </footer>
+</body>
+</html>
